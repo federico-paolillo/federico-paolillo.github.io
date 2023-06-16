@@ -1,0 +1,15 @@
+title: Federico's diary
+email: 1.federico.paolillo@gmail.com
+description: Stories, notes, ramblings
+github_username: federico-paolillo
+port: 60080
+markdown: kramdown
+remote_theme: riggraz/no-style-please
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+theme_config:
+  appearance: dark
+  date_format: "%Y-%m-%d"
+  show_description: true
+  back_home_text: "back"
